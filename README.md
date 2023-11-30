@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Php laravel** and  **CakePhp** 
 
-- 🌱 I’m currently learning **node js** and angular js**
+- 🌱 I’m currently learning **node js** and **angular js**
 
 - 👯 I’m looking to collaborate on **new challenging web projects**
 
