@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mogahid Gaffar</h1>
 <h3 align="center">system analyst and Backend Web Developer</h3>
 
-- 🔭 I’m currently working on **Php laravel** and **CakePhp** and **Vuejs**
+- 🔭 I’m currently working on **Php laravel** and  **CakePhp** 
 
 - 🌱 I’m currently learning **node js** and angular js**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mogahidgaffar@gmail.com**
 
-- ⚡ Fun fact **i think i'm funny and i got good communication skills :)**
+- ⚡ Fun fact **i think i'm funny with good humor and i got very good communication skills :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
