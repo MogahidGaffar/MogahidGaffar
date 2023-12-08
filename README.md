@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mogahid Gaffar</h1>
 <h3 align="center">System analyst and Backend web developer</h3>
 
-- 🔭 I’m currently working on **Php laravel** ,  **CakePhp** and  **Vuejs** 
+- 🔭 I’m currently working on **vanilla php** , **laravel** ,  **CakePhp** and  **Vuejs** 
 
 - 🌱 I’m currently learning **node js** and **angular js**
 
