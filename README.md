@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **new challenging web projects**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mogahidgaffar/details/projects/](https://www.linkedin.com/in/mogahidgaffar/details/projects/)
+- 👨‍💻 some of my done projects are available at [https://www.linkedin.com/in/mogahidgaffar/details/projects/](https://www.linkedin.com/in/mogahidgaffar/details/projects/)
 
 - 💬 Ask me about **php , laravel ,mysql, sql server , SDLC**
 
