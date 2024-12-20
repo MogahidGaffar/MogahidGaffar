@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Mogahid Gaffar</h1>
 <h3 align="center">System analyst and Backend web developer</h3>
 
-- 🔭 I’m currently working on **vanilla php** , **laravel** ,  **CakePhp** and  **Vuejs** 
+- 👨‍💻 I’m currently working on **vanilla php** , **laravel** ,  **CakePhp** and  **Vuejs** 
 
 - 🌱 I’m currently learning **node js** and **angular js**
 
-- 👯 I’m looking to collaborate on **new challenging web projects**
+- 🔭 I’m looking to collaborate on **new challenging web projects**
 
-- 👨‍💻 some of my done projects are available at [https://www.linkedin.com/in/mogahidgaffar/details/projects/](https://www.linkedin.com/in/mogahidgaffar/details/projects/)
+- 📢 some of my done projects are available at [https://www.linkedin.com/in/mogahidgaffar/details/projects/](https://www.linkedin.com/in/mogahidgaffar/details/projects/)
 
 - 💬 Ask me about **php , laravel ,mysql, sql server , SDLC**
 
