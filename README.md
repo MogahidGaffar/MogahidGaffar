@@ -1,22 +1,36 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Mogahid Gaffar</h1>
-<h3 align="center">System analyst and Backend web developer</h3>
+<h1 align="center">Hi 👋, I'm Mogahid Gaffar</h1> <h3 align="center">💻 System Analyst & Backend Web Developer | Laravel & PHP Developer</h3>
+👨‍💻 Back-End Web Developer with over 5 years of experience in building and maintaining web applications
+
+👨‍💻 Back-End Web Developer with over 5 years of experience in building and maintaining web applications
+
+🔧 Proficient in PHP, especially Laravel and CakePHP, with a focus on clean and secure code
+
+📘 Solid understanding of the Software Development Life Cycle (SDLC)
+
+🧩 Skilled in database design, query optimization, API development, and testing
+
+🎓 Microsoft Certified: AZ-900 – Azure Fundamentals, certified by Microsoft
+
+🎓 Git & GitHub Foundations, certified by Microsoft
+
+🎓 GitHub Actions for CI/CD, certified by Microsoft
+
+🎓 ECBA – Entry Certificate in Business Analysis, certified by IIBA
+
+🌐 Hands-on experience with HTML5, CSS3, JavaScript, AJAX, jQuery, and MySQL
+
+🌱 Currently learning Node.js and AngularJS
+
+🔭 Open to collaborating on new and challenging web projects
+
+📢 Some of my completed work is listed on my LinkedIn Projects
+
+📫 Contact: mogahidgaffar@gmail.com
+
+⚡ Fun fact: I enjoy working in teams and have a good sense of humor 😄
 
 
-- 👨‍💻 I’m currently working on **vanilla php** , **laravel** ,  **CakePhp** and  **Vuejs** 
-
-- 🌱 I’m currently learning **node js** and **angular js**
-
-- 🔭 I’m looking to collaborate on **new challenging web projects**
-
-- 📢 some of my done projects are available at [https://www.linkedin.com/in/mogahidgaffar/details/projects/](https://www.linkedin.com/in/mogahidgaffar/details/projects/)
-
-- 💬 Ask me about **php , laravel ,mysql, sql server , SDLC**
-
-- 📫 How to reach me **mogahidgaffar@gmail.com**
-
-- ⚡ Fun fact **i think i'm funny with good humor and i got very good communication skills :)**
 
 <h3 align="left">Languages and Tools:</h3>
 
