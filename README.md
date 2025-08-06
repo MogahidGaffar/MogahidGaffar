@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mogahid Gaffar</h1> <h3 align="center">💻 System Analyst & Backend Web Developer | Laravel & PHP Developer</h3>
-👨‍💻 Back-End Web Developer with over 5 years of experience in building and maintaining web applications
+
 
 👨‍💻 Back-End Web Developer with over 5 years of experience in building and maintaining web applications
 
