@@ -6,7 +6,7 @@
 🔧 Proficient in PHP, especially Laravel and CakePHP, with a focus on clean and secure code
 
 📘 Solid understanding of the Software Development Life Cycle (SDLC)
-
+ 
 🧩 Skilled in database design, query optimization, API development, and testing
 
 🎓 Microsoft Certified: AZ-900 – Azure Fundamentals, certified by Microsoft
