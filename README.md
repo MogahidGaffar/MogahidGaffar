@@ -12,7 +12,7 @@
 🎓 Microsoft Certified: AZ-900 – Azure Fundamentals, certified by Microsoft
 
 🎓 Git & GitHub Foundations, certified by Microsoft
-
+ 
 🎓 GitHub Actions for CI/CD, certified by Microsoft
 
 🎓 ECBA – Entry Certificate in Business Analysis, certified by IIBA
