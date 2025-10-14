@@ -17,7 +17,7 @@
  
 🎓 ECBA – Entry Certificate in Business Analysis, certified by IIBA
 
-🌐 Hands-on experience with HTML5, CSS3, JavaScript, AJAX, jQuery, and MySQL
+🌐 Hands-on experience with HTML5, CSS3, JavaScript, AJAX, jQuery, and MySQL 
 
 🌱 Currently learning Node.js and AngularJS
 
