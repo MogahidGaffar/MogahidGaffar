@@ -10,7 +10,7 @@
 🧩 Skilled in database design, query optimization, API development, and testing
 
 🎓 Microsoft Certified: AZ-900 – Azure Fundamentals, certified by Microsoft
-
+ 
 🎓 Git & GitHub Foundations, certified by Microsoft
   
 🎓 GitHub Actions for CI/CD, certified by Microsoft 
