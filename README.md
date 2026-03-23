@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mogahid Gaffar</h1> <h3 align="center">💻 System Analyst & Backend Web Developer | Laravel & PHP Developer</h3>
       
 👨‍💻 Back-End Web Developer with over 6 years of experience in building and maintaining web applications
-   
+    
 🔧 Proficient in PHP, especially Laravel and CakePHP, with a focus on clean and secure code 
     
 📘 Solid understanding of the Software Development Life Cycle (SDLC)
