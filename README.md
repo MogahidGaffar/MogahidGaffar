@@ -4,7 +4,7 @@
 👨‍💻 Back-End Web Developer with over 6 years of experience in building and maintaining web applications
     
 🔧 Proficient in PHP, especially Laravel and CakePHP, with a focus on clean and secure code 
-       
+        
 📘 Solid understanding of the Software Development Life Cycle (SDLC)
   
 🧩 Skilled in database design, query optimization, API development, and testing
