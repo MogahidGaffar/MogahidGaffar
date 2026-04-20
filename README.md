@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:mogahidgaffar@gmail.com">📫 Contact Me</a>
-</p>
+</p> 
 
 ---
 
