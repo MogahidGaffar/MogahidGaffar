@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mogahid Gaffar</h1>
 <h3 align="center">💻 System Analyst & Backend Developer | Laravel & PHP Specialist</h3>
 
-<p align="center"> 
+<p align="center">  
   <a href="mailto:mogahidgaffar@gmail.com">📫 Contact Me</a>
 </p> 
 
