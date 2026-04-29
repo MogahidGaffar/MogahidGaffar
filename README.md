@@ -2,7 +2,7 @@
 <h3 align="center">💻 System Analyst & Backend Developer | Laravel & PHP Specialist</h3>
 
 <p align="center">  
-  <a href="mailto:mogahidgaffar@gmail.com">📫 Contact Me</a>
+  <a href="mailto:mogahidgaffar@gmail.com">📫 Contact Me</a> 
 </p> 
 
 --- 
